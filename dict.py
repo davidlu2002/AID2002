@@ -1,6 +1,8 @@
 import pymysql
 import re
 
+print("Github")
+
 f = open("dict.txt",mode='r')
 
 # 连接数据库
