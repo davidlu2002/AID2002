@@ -1,0 +1,6 @@
+
+1 a-age:17 score:88
+2 张三-age:77 score:55
+3 红饲养-age:33 score:100
+4 瓦尔迪-age:25 score:77
+5 ｅｓｃ-age:17 score:88
